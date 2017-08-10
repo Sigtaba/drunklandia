@@ -5,6 +5,12 @@
 ## Description:
 #### This application allows the user to filter through various happy hour locations depending on which categories are most important to them. The user can filter by their location in Portland, how expensive the happy hour deals are, and other amenities the location offers, such as karaoke, gluten-free options, etc. There is a link to the happy hour master list from the landing page, and a separate page that provides information about the creation of the app and it's developers. There is also a link to a page that allows the user to enter their favorite happy hour location to the master list, then later edit their entry
 
+## Screenshots:
+
+<h1 align="center"><img src="https://github.com/Sigtaba/drunklandia/blob/master/img/drunklandia-home.png?raw=true"></h1>
+<h1 align="center"><img src="https://github.com/Sigtaba/drunklandia/blob/master/img/drunklandia-about.png?raw=true"></h1>
+<h1 align="center"><img src="https://github.com/Sigtaba/drunklandia/blob/master/img/drunklandia-search.png?raw=true"></h1>
+
 ## Specifications:
 | Specification | Example Input | Example Output |
 | ---------------- |:----------------:|:----------------:|
